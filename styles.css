@@ -2,9 +2,9 @@
 {
 	width:200px;
 	background-color:purple;
-    
+    border:5px solid purple;
 	border-left-width:5px solid green;
-	
+	border-left-color:green;
 	padding:10px;
 	
 }
